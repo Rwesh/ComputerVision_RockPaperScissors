@@ -8,6 +8,7 @@ Hand Gesture Rules
 🪨 Rock: No fingers up (closed fist).
 📄 Paper: All five fingers up (open hand).
 ✂️ Scissors: Pointer and middle fingers up (peace sign).
+
 Gameplay Instructions
 
 Ensure your hand is clearly visible in the webcam frame.
