@@ -6,10 +6,12 @@ This repository contains a Python-based computer vision implementation of the cl
 Hand Gesture Rules
 
 🪨 Rock: No fingers up (closed fist).
+
 📄 Paper: All five fingers up (open hand).
+
 ✂️ Scissors: Pointer and middle fingers up (peace sign).
 
-Gameplay Instructions
+Gameplay Instructions:
 
 Ensure your hand is clearly visible in the webcam frame.
 When prompted, make your move before the countdown reaches 3.
